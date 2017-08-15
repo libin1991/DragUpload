@@ -1,6 +1,7 @@
 /**
  * 拖拽上传
  * @author  shicheng.zhang
+ * @mail    1058766319@qq.com
  * @date    2017-08-15
  * @version v1.0.0
  * 没有做浏览器兼容，简单实现拖拽上传
