@@ -305,6 +305,7 @@
             // 调试代码
             DragUpload.init({
                 DOMElement: document.getElementById('b'),
+                url: "http://localhost/test.php",
                 // 将文件拖到指定元素内，背景变成红色
                 onDragenter: function(e) {
                     this.options.DOMElement.style.background = 'red';
